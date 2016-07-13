@@ -4,7 +4,7 @@
 
 Please could you supply some data concerning the seizure of counterfeit goods by or in conjunction with Trading Standards in your area.
 
-#### 1. Please provide a breakdown of the number of seizures of each of the following type of product, per postcode area of seizures, for each of the calendar years 2013, 2014 and 2015 (please see template spreadsheet attached). 
+#### 1. Please provide a breakdown of the number of seizures of each of the following type of product, per postcode area of seizures, for each of the calendar years 2013, 2014 and 2015 (please see [template spreadsheet attached](https://github.com/BBC-Data-Unit/counterfeit-goods/blob/master/FOI%20response%20template%20counterfeit%20goods.xlsx)). 
 
 Where a postcode for the seizure is not known please use XXX if it falls within your local authority or YYY for any that were outside your local authority area.
 
@@ -42,3 +42,5 @@ The following is an entirely fictional example to illustrate how I would ideally
 *19/06/2013 12:20 B1 2BB Alcohol 20 Bottles (70cl) Vodka made by an unlicensed producer and carrying the label Russian Best £100 £20*
 
 If it is not possible to meet my request as I have specified I am more than prepared to discuss other ways that as much of it as possible can be supplied within cost limits.
+
+*Attached to the FOI request email was [this template](https://github.com/BBC-Data-Unit/counterfeit-goods/blob/master/FOI%20response%20template%20counterfeit%20goods.xlsx). Not many respondents used it.*

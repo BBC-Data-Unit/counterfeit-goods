@@ -19,6 +19,7 @@ Dan Wainwright created an **interactive map** of counterfeit goods seized in the
 
 ## Background documents
 
+* The [wording of the Freedom of Information request](https://github.com/BBC-Data-Unit/counterfeit-goods/blob/master/FOI.md) used for the story, and the [template spreadsheet](https://github.com/BBC-Data-Unit/counterfeit-goods/blob/master/FOI%20response%20template%20counterfeit%20goods.xlsx) sent with that.
 * The latest [UK Intellectual Property Crime Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/461792/ip-crime-report-2014-15.pdf) was used in reporting the story
 
 ## Charts

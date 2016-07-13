@@ -1,6 +1,6 @@
 ## Freedom of Information request
 
-*The following was the wording of the FOI request which was sent to police forces in England*:
+*The following was the wording of the FOI request which was sent to local authorities in England*:
 
 Please could you supply some data concerning the seizure of counterfeit goods by or in conjunction with Trading Standards in your area.
 

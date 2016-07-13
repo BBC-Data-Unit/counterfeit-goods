@@ -4,7 +4,7 @@
 
 In July 2016 [we reported on the extent of the trade in fake goods in England's biggest cities](http://www.bbc.co.uk/news/uk-england-35925119).
 
-The data came from Freedom of Information requests to police forces across the country. 
+The data came from Freedom of Information requests to local authorities across the country. 
 
 ## Explore the visualisation
 
